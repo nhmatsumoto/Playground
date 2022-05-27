@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Playground.API.Controllers
 {
+
+    //Alguma coisa
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
